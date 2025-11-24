@@ -18,7 +18,6 @@ No databases, no internet, no complicated stuff — just pure Python that runs a
 | Add Expenses                       | Track everything you spend                                   |
 | Live Balance                       | Always shows your current total                              |
 | Transaction History                | See every income and expense in order                        |
-| Positive/Negative Feedback          | Tells you "Good!" or "Oh no!" depending on your balance     |
 | Simple Menu                        | Only 4 options — super easy to use                           |
 | Input Validation (basic)           | Warns if you type something wrong                            |
 | Decimal Support                    | Handles dollars and cents correctly (e.g., 12.99)            |
