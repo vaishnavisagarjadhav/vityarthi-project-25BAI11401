@@ -29,6 +29,12 @@ No databases, no internet, no complicated stuff — just pure Python that runs a
 
 ### Requirements
 - Python 3.8 or higher (most computers already have it)
+OUTPUT
+<img width="1710" height="837" alt="Screenshot 2025-11-24 215728" src="https://github.com/user-attachments/assets/f21b89be-7254-4e14-833f-449f406048d6" />
+
+<img width="843" height="740" alt="Screenshot 2025-11-24 215818" src="https://github.com/user-attachments/assets/e215e00e-e824-4b73-8679-0a233a1f0fb8" />
+
+
 
 ### Steps
 
@@ -69,7 +75,8 @@ Choose number 1 2 3 or 4: 3
 Total money now = 9.5
 Good! You have money left
 
-<img width="1710" height="837" alt="Screenshot 2025-11-24 215728" src="https://github.com/user-attachments/assets/f21b89be-7254-4e14-833f-449f406048d6" />
 
-<img width="843" height="740" alt="Screenshot 2025-11-24 215818" src="https://github.com/user-attachments/assets/e215e00e-e824-4b73-8679-0a233a1f0fb8" />
+
+
+
 
